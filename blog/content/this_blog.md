@@ -87,3 +87,7 @@ Some of the complexities and prerequisites not detailed here:
 * Setting up a local Python development environment
 * Creating a Google Cloud Platform account and hooking it up with Firebase
 * Buying a domain and configuring DNS
+
+### Source
+
+This source of this project can be found [here](https://github.com/tomgoren/notes-to-self)
