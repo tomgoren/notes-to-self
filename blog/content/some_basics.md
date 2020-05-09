@@ -1,6 +1,7 @@
 Title: Some Basics
 Date: 2018-07-06
 Category: Linux
+Tags: Tech
 
 ## Objective
 In this article, you will learn some basic concepts and key terms related to

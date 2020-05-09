@@ -1,6 +1,7 @@
 Title: Developing Rust in Neovim
 Date: 2019-10-18
 Category: Software development
+Tags: Tech
 
 ## Overview
 Here is a short set of instructions on how to get started with Rust in Neovim.

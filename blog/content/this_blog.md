@@ -1,6 +1,7 @@
 Title: How this blog is hosted
 Date: 2020-01-19
 Category: Software development
+Tags: Tech
 
 ## Overview
 
@@ -31,7 +32,7 @@ This is a meta post about how to host a blog with [Pelican](https://blog.getpeli
 
 * Follow the [Pelican quickstart](https://docs.getpelican.com/en/stable/quickstart.html)
 * Follow the instructions [here](https://firebase.google.com/docs/hosting/) to get Firebase Hosting set up
-* Pick a [theme](https://github.com/getpelican/pelican-themes) 
+* Pick a [theme](https://github.com/getpelican/pelican-themes)
 
 #### Project layout
 
