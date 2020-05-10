@@ -98,3 +98,5 @@ blog/output
 blog/__pycache__/
 *.retry
 blog/*pid
+
+.firebase/
