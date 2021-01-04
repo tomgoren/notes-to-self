@@ -5,7 +5,7 @@ from os import getenv
 
 AUTHOR = 'Tom Goren'
 SITENAME = "Notes to self"
-SITEURL = ''
+SITEURL = 'https://notes.tomgoren.com'
 
 PATH = 'content'
 
