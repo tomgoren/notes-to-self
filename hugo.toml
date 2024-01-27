@@ -1,0 +1,8 @@
+baseURL = 'https://notes.tomgoren.com/'
+languageCode = 'en-us'
+title = 'Tom Goren'
+theme = "m10c"
+staticDir = ['static']
+
+[params]
+  description = "Notes"
