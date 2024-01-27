@@ -5,4 +5,5 @@ theme = "m10c"
 staticDir = ['static']
 
 [params]
+  avatar = '/images/fish_and_prawn.jpg'
   description = "Notes"

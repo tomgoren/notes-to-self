@@ -1,5 +1,5 @@
 +++
-title = 'How this blog is hosted'
+title = 'How this blog was hosted once upon a time'
 date = 2020-01-19
 +++
 
