@@ -1,5 +1,5 @@
 +++
-title = 'Some Basics'
+title = 'Basic intro to computer stuff'
 date = 2018-07-06
 +++
 
@@ -171,7 +171,3 @@ The key terms covered here were:
 * `Software` - code we write to tell computers what to do
 * `Operating System` - essential software without which we cannot use the hardware
 * `Firmware` - special software that we do not typically interact with at all
-
-Peace on Earth,
-
---tmg
