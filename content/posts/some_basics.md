@@ -42,12 +42,14 @@ purpose of hosting these machines.
 
 Here are some servers in a data center:
 
-![Servers in a data center](/images/proper_servers.jpg)
+![Servers in a data center](/images/proper_servers_resized.jpg)
+
 _I was part of the team that installed these servers in 2015._
 
 When on a budget, servers might look like this:
 
-![Deconstructed post modern server](/images/improper_server.jpg)
+![Deconstructed post modern server](/images/improper_server_resized.jpg)
+
 _This was a server put together in a hurry, as part of a side project in 2007._
 
 ### Hardware
