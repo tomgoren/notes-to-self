@@ -33,70 +33,21 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Based on:
+#
+# https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore
+#
+#
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
 
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*,cover
-cover
-
-# Translations
-*.mo
-*.pot
-
-# Django stuff:
-*.log
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
-
-
-blog/output
-blog/__pycache__/
-*.retry
-blog/*pid
-
-.firebase/
+# Temporary lock file while building
+/.hugo_build.lock

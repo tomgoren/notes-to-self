@@ -1,9 +1,16 @@
 baseURL = 'https://notes.tomgoren.com/'
 languageCode = 'en-us'
 title = 'Tom Goren'
-theme = "m10c"
+theme = "hugo-theme-m10c"
 staticDir = ['static']
 
 [params]
   avatar = '/images/fish_and_prawn.jpg'
-  description = "Notes"
+  description = "Curated collection of curios"
+
+[params.style]
+  darkestColor = "#315659"
+  darkColor = "#253031"
+  lightColor = "#96a879"
+  lightestColor = "#fff"
+  primaryColor = "#dad865"
