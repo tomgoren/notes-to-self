@@ -91,4 +91,4 @@ Some of the complexities and prerequisites not detailed here:
 
 ### Source
 
-This source of this project can be found [here](https://github.com/tomgoren/notes-to-self)
+The source of this project can be found [here](https://github.com/tomgoren/notes-to-self).
