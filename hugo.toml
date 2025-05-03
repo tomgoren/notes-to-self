@@ -5,17 +5,16 @@ theme = "hugo-theme-m10c"
 staticDir = ['static']
 
 [params]
-  avatar = '/images/fish_and_prawn.jpg'
-  description = "Curated collection of curios"
+avatar = '/images/fish_and_prawn.jpg'
+description = "Thoughts and stuff"
 
 [params.style]
-  darkestColor = "#315659"
-  darkColor = "#253031"
-  lightColor = "#96a879"
-  lightestColor = "#fff"
-  primaryColor = "#dad865"
+darkestColor = "#315659"
+darkColor = "#253031"
+lightColor = "#96a879"
+lightestColor = "#fff"
+primaryColor = "#dad865"
 
 [params.author]
-	name = "Tom Goren"
-	email = "tom@tomgoren.com"
-
+name = "Tom Goren"
+email = "tom@tomgoren.com"
