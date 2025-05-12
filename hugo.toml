@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Tom Goren'
 theme = "hugo-theme-m10c"
 staticDir = ['static']
+enableEmoji = true
+
 
 [params]
 avatar = '/images/fish_and_prawn.jpg'
@@ -18,3 +20,6 @@ primaryColor = "#dad865"
 [params.author]
 name = "Tom Goren"
 email = "tom@tomgoren.com"
+
+[markup.goldmark.renderer]
+unsafe = true
