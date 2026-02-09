@@ -1,21 +1,34 @@
 baseURL = 'https://notes.tomgoren.com/'
 languageCode = 'en-us'
 title = 'Tom Goren'
-theme = "hugo-theme-m10c"
+theme = "hextra"
 staticDir = ['static']
 enableEmoji = true
 
+[[menu.main]]
+name = "Posts"
+pageRef = "/posts"
+weight = 1
+
 
 [params]
-avatar = '/images/fish_and_prawn.jpg'
 description = "Thoughts and stuff"
 
-[params.style]
-darkestColor = "#315659"
-darkColor = "#253031"
-lightColor = "#96a879"
-lightestColor = "#fff"
-primaryColor = "#dad865"
+[params.navbar]
+displayTitle = true
+displayLogo = false
+
+[params.theme]
+default = "system"
+displayToggle = true
+
+[params.search]
+enable = false
+
+[params.analytics.umami]
+serverURL = "https://cloud.umami.is"
+websiteID = "dd5fc939-9e67-4ad1-ad02-394ba2070e7b"
+scriptName = "script.js"
 
 [params.author]
 name = "Tom Goren"
