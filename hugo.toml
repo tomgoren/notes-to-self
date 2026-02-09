@@ -18,8 +18,15 @@ description = "Thoughts and stuff"
 displayTitle = true
 displayLogo = false
 
+[params.navbar.logo]
+path = "images/fish_and_prawn.jpg"
+dark = "images/fish_and_prawn.jpg"
+link = "/"
+width = 34
+height = 34
+
 [params.theme]
-default = "system"
+default = "light"
 displayToggle = true
 
 [params.search]

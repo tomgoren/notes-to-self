@@ -1,0 +1,29 @@
+:root {
+  --primary-hue: 16deg;
+  --primary-saturation: 96%;
+  --primary-lightness: 49%;
+}
+
+.dark {
+  --primary-hue: 152deg;
+  --primary-saturation: 92%;
+  --primary-lightness: 38%;
+}
+
+html:not(.dark) body {
+  background: #fffaf6;
+}
+
+html:not(.dark) .hextra-nav-container-blur {
+  background: #fff3ec;
+}
+
+.hextra-nav-container a img {
+  border-radius: 9999px;
+  object-fit: cover;
+  border: 2px solid hsl(var(--primary-hue) var(--primary-saturation) var(--primary-lightness));
+}
+
+::selection {
+  background: rgba(247, 92, 3, 0.22);
+}
