@@ -4,18 +4,74 @@
   --primary-lightness: 49%;
 }
 
+@layer theme {
+  :root {
+    --color-dark: #2a3b30;
+  }
+}
+
 .dark {
   --primary-hue: 152deg;
   --primary-saturation: 92%;
   --primary-lightness: 38%;
 }
 
-html:not(.dark) body {
-  background: #fffaf6;
+html.dark {
+  background: #2a3b30;
 }
 
-html:not(.dark) .hextra-nav-container-blur {
-  background: #fff3ec;
+html.dark body {
+  background: #2a3b30;
+  color: #eef3ea;
+}
+
+html.dark .hextra-nav-container-blur {
+  background: #2a3b30 !important;
+  box-shadow: none !important;
+}
+
+html.dark .hextra-nav-container,
+html.dark .hextra-max-navbar-width,
+html.dark .hextra-nav-container > nav,
+html.dark .hextra-sidebar-container,
+html.dark .hextra-footer,
+html.dark .hextra-toc,
+html.dark .hextra-scrollbar,
+html.dark .hextra-sidebar-container > div,
+html.dark .hextra-toc > div {
+  background: #2a3b30 !important;
+}
+
+html.dark .hextra-nav-container {
+  background: #2a3b30 !important;
+}
+
+html.dark .hextra-toc .hx\:mt-8 {
+  background: #2a3b30;
+  box-shadow: none;
+  border-color: rgba(238, 243, 234, 0.25);
+}
+
+html.dark h1,
+html.dark h2,
+html.dark h3,
+html.dark h4,
+html.dark h5,
+html.dark h6 {
+  color: #f6fbf2;
+}
+
+html.dark a {
+  color: #f8d38f;
+  text-decoration-color: rgba(248, 211, 143, 0.45);
+  text-underline-offset: 0.15em;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+html.dark a:hover {
+  color: #fff2b2;
+  text-decoration-color: #fff2b2;
+  text-shadow: 0 0 0.4rem rgba(255, 242, 178, 0.35);
 }
 
 .hextra-nav-container a img {
