@@ -1,0 +1,6 @@
+{{- $ctx := .context -}}
+{{- with $ctx.Site.GetPage "/posts" -}}
+  <div class="hx:mx-auto hx:flex hx:justify-center hx:py-4 hx:text-sm hx:md:justify-start">
+    <a class="hx:inline-flex hx:items-center hx:gap-1 hover:hx:underline" href="{{ printf "%sindex.xml" .RelPermalink }}">RSS Feed</a>
+  </div>
+{{- end -}}
