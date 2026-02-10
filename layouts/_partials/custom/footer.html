@@ -1,6 +1,16 @@
 {{- $ctx := .context -}}
 {{- with $ctx.Site.GetPage "/posts" -}}
-  <div class="hx:mx-auto hx:flex hx:justify-center hx:py-4 hx:text-sm hx:md:justify-start">
+  <div class="hx:mx-auto hx:flex hx:items-center hx:justify-center hx:py-4 hx:text-sm hx:md:justify-start" style="gap: 1.25rem;">
     <a class="hx:inline-flex hx:items-center hx:gap-1 hover:hx:underline" href="{{ printf "%sindex.xml" .RelPermalink }}">RSS Feed</a>
+    <a
+      class="hx:inline-flex hx:items-center hx:text-current hover:hx:underline"
+      href="https://github.com/tomgoren/notes-to-self"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Source code"
+    >
+      {{- partial "utils/icon.html" (dict "name" "github" "attributes" `height=1.5em width=1.5em`) -}}
+      <span class="hx:sr-only">Source code</span>
+    </a>
   </div>
 {{- end -}}
