@@ -10,6 +10,11 @@ name = "Posts"
 pageRef = "/posts"
 weight = 1
 
+[[menu.main]]
+name = "About"
+pageRef = "/about"
+weight = 2
+
 
 [params]
 description = "Thoughts and stuff"
