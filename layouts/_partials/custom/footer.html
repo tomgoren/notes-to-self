@@ -1,7 +1,14 @@
 {{- $ctx := .context -}}
 {{- with $ctx.Site.GetPage "/posts" -}}
   <div class="hx:mx-auto hx:flex hx:items-center hx:justify-center hx:py-4 hx:text-sm hx:md:justify-start" style="gap: 1.25rem;">
-    <a class="hx:inline-flex hx:items-center hx:gap-1 hover:hx:underline" href="{{ printf "%sindex.xml" .RelPermalink }}">RSS Feed</a>
+    <a
+      class="hx:inline-flex hx:items-center hx:text-current hover:hx:underline"
+      href="{{ printf "%sindex.xml" .RelPermalink }}"
+      aria-label="RSS Feed"
+    >
+      {{- partial "utils/icon.html" (dict "name" "rss" "attributes" `height=1.5em width=1.5em`) -}}
+      <span class="hx:sr-only">RSS Feed</span>
+    </a>
     <a
       class="hx:inline-flex hx:items-center hx:text-current hover:hx:underline"
       href="https://github.com/tomgoren/notes-to-self"
@@ -11,6 +18,15 @@
     >
       {{- partial "utils/icon.html" (dict "name" "github" "attributes" `height=1.5em width=1.5em`) -}}
       <span class="hx:sr-only">Source code</span>
+    </a>
+    <a
+      class="hx:inline-flex hx:items-center hx:text-current hover:hx:underline"
+      rel="me"
+      href="https://mastodon.social/@shizbot"
+      aria-label="Mastodon"
+    >
+      {{- partial "utils/icon.html" (dict "name" "mastodon" "attributes" `height=1.5em width=1.5em`) -}}
+      <span class="hx:sr-only">Mastodon</span>
     </a>
   </div>
 {{- end -}}
