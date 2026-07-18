@@ -1,0 +1,127 @@
+High Speed Computing Machines
+
+Natasha Goldowski
+
+Originally published in The Black Mountain College Review, Vol. 1, No. 1, June 1951.
+
+Transcribed from the scanned facsimile in the attached PDF. Original page breaks are marked. The transcription preserves the wording, spelling, punctuation, and structure of the printed text; hyphenation caused solely by line breaks has been removed.
+
+[Original page 1]
+
+To live effectively is to live with adequate information ...¹
+
+[Original page 2]
+
+The material world around us undergoes continual changes. In spite of this dynamism, man adapts himself rather easily within long periods of time to the increasing numbers of commodities. Yet the introduction of certain commodities leads to revolutions of social life. The steam engine, the atomic bomb, and now the high-speed computing machine are “commodities” responsible for these spontaneous transformations of society, called industrial revolutions.
+
+Wherein lies this specific power of certain inventions? As long as science and technology modify the number of commodities without modifying our general concepts of the physical world, social life goes through a period of “progress” characterized by a continuous change. If, however, a modification of our general concepts takes place, and commodities are built according to this new concept, social “progress” undergoes a discontinuity, a jump, and the social structure has to undergo a transformation. High-speed computing machines are the cause of the transformation of the society of the XXth century, much in the same way that steam engines were the cause of the transformation of the society of the XIXth century.
+
+The computing machines do not merely increase the amount of commodities we possess; they transform our life into an entirely different form. The newly constructed machines possess a mechanical, or better an electronic, brain. They can learn, they can invent, they can compute an extraordinary amount of data, and they have an almost unlimited memory. Their behavior is analogous to human behavior. The machine differs from men in that it cannot change its environment, while men theoretically can. This shortcoming, however, is compensated for by two factors which make the machine in a sense superior to men.
+
+1. The machine matures in the same way as man does, since it is capable of “learning” much in the same way as man does. In the case of men, however, the process of maturation is handicapped by old age (there are a few exceptions: Goya, Einstein, Shaw, etc.). The machine does not age; therefore, its maturation can continue indefinitely.
+
+2. Man has to adapt himself to continually changing environments because of constantly changing technology. The external adaptation to environments is a rather easy process. Our rulers, however, so radical wherever the external conditions are concerned, are extremely conservative toward laws regulating human relationships. As a consequence men, being perfectly adapted to their new external conditions (airplanes, high-frequency cooking, etc.) have to lead an internal life corresponding to past centuries. This is called by social scientists the social lag. This discrepancy or lagging leads either to the suppression of internal life on a large scale, or to a personal internal disharmony which, when it reaches an acute state, stops all human activities. The machines are in a completely stable internal state, since their external conditions remain fixed.
+
+It would seem that the immediate task of man is to develop harmonious relationships within and between men; this is possible only if men understand their relationship to the ever-changing world, and to do this the knowledge of the external world is necessary. The “human” machines are in many respects much more pregnant in consequences than all the bombs taken together, and are bound to play a paramount role in our life. It seems desirable to know something about them in order to orient their use for the benefit of society and not against it, and to see how we should orient our lives in view of this new “commodity.”
+
+[Original page 3]
+
+1. THE PURPOSE OF MACHINES AND THEIR EFFECT ON SOCIETY.
+
+Every epoch of man is characterized by a specific type of machine, or one may say that the characteristics of a given machine determine the conditions of life in any given epoch.
+
+The primitive machines (lever, wheel, hammer, etc.) were devices transforming low grade mechanical energy into a higher grade of mechanical energy. This means that the primitive machine increases quantitatively the energy of men, but does not modify it qualitatively; as a consequence, social life increases in “commodities,” but it does not undergo a “transformation.”
+
+The XIXth century machines were based on the principle of transforming one form of energy into another without utilizing the energy of men. The transformation of heat energy into mechanical energy (steam engine) changed entirely the social life, and was the primary cause of the so-called industrial revolution.
+
+The transformation of mechanical energy into electric energy brought about an entirely new problem: that of communication at a distance. Devices allowing communication between men and machines, and between machines, became necessary. It is the problem of communication which ushered us into the XXth century. As long as the communication system had for its purpose to extend the “voice” of man, a quantitative increase of commodities took place. When, however, communication becomes independent of man’s intervention, a transformation of the society can be expected.
+
+The communication systems of the first type—telephone, radio, telegraph—had an impact on society, but they led only to an increase of commodities, or a “progress of civilization.” The communication systems of today are definitely of the second type, and one may safely say that the second industrial revolution, which we are witnessing, is caused by our understanding of the mechanism of inter-communication between different parts of the same apparatus or organism, as opposed to communication between an apparatus and an organism. The possibility of communication between different parts of a machine, endowed with independent activities, leads to the possibility of producing what we usually call mental power. The high-speed computing machines, or “electronic brains,” are representative of this type of machine. They are based on the principle of servo-mechanism, which was developed into a new science born three years ago, called Cybernetics.
+
+2. WHAT IS A SERVO-MECHANISM?
+
+A servo-mechanism is a system composed essentially of a central “governing” part and various “performing” parts. The central mechanism is capable of accepting orders from outside and transmitting them to the other parts of the system. These parts while carrying out the orders are in continual communication with the central system, which is thus continually informed of the actual performance of the different parts; on the basis of this information, the central mechanism modifies or maintains the initial order according to the report received.
+
+Servo-mechanisms have been known and used for a long time, and their development may be compared, in a sense, to the development of species, in that perception organs of increasing complexity came to be inserted in the primitive organism. As long as the functioning of
+
+[Original page 4]
+
+servo-mechanisms necessitated the intervention of men, they brought us increasing commodities without supplanting us. From the moment they do not need men for their operation, a revolution of society can be expected. The computing machine needs men only at the initial stage; from then on it works alone, and works in a way parallel to that of men.
+
+A tea-kettle with a whistle built in is a primitive type of servo-mechanism. It is an infant, cybernetically speaking, and a moron from the human point of view. It acts like a baby. It responds to its environment by crying, without being able to do anything about the developed situation. It whistles when the water boils, making you run to shut off the heat; when this is done it cools off. Its only function is to tell you when the temperature has reached the boiling point. A few generations of cybernetically-minded people, however, bring to the whistle an improvement. The whistle is connected with a mechanism to shut off the heat: now you hear the whistle, but you do not have to run; however, you will find the water cold if you wait too long. A next step in the development is to build in a thermostatic control so that, once you hear the whistle, instead of shutting off the heat the mechanism maintains the temperature. This last step involves a communication backwards and forwards between the whistle and the water; the servo-mechanism has to be sensitive to temperature. The last step consists in building in a watch mechanism so that you can set the clock and the temperature, and when you return the water will be ready. In this case the servo-mechanism must be sensitive to temperature and “time.” All these are, however, infants without “brains.” They repeat what you tell them but they cannot learn and they cannot memorize.
+
+The machines of today, through the introduction of the vacuum tube, have a memory and have the capacity to learn. “The operations of these machines are precisely parallel to the operations of living individuals. Both of them have sensory receptors as one stage of their cycle of operation. Both of them collect information, and it is their performed action on the outside world, and not merely their intended action, which is reported back to the central regulatory apparatus.”² In fact, what is it that differentiates men from the lower animals or from mechanisms? Only the capacity for talking, the capacity for sending and receiving messages which affect the behavior of the receiver. The machines of today operate on exactly the same principle. The control of a machine based on its actual rather than on its expected performance is called feed-back.
+
+In resumé, the electronic brain possesses perception organs of different kinds which allow it to communicate with the outside world. This communication is made by an initial message sent by men or by any other machine. The message is fed into the machine generally by means of a punched tape. The information thus fed is stored in the “memory.” The stored information can be either erased or kept for an indefinite time. On receiving a new message, the machine analyses it on the basis of the information already available and gives out the result of its analysis. In an analogous fashion a synthesis can be performed. Thus if we feed an equation into the machine, the machine will first break it up into its
+
+1 & 2. N. Wiener, “The Human Use of Human Beings”
+
+[Original page 5]
+
+elementary parts, operation which will then allow it to be solved. For example, the computing machine can only add; however, this capacity for adding allows it to perform any mathematical operation, because all mathematical operations can be finally reduced to adding.
+
+The machine is capable of performing the same calculations as men; but because of a greater memory and speed of transmission of information within the brain, it achieves such an economy of time that certain problems, abandoned because of the complexity of their calculation, can now be solved by the machine. This will become clear if one realizes that the machine needs 15 minutes to perform calculations which require one month of steady work by fifty trained engineers.
+
+This immense capacity for analysis and synthesis is not limited to mathematical equations; any type of information can be fed into the machine, since essentially it operates by decoding a coded message. Translation machines operate on the same principle. These machines, however, can only speed up the manipulations which otherwise could be performed by men, and thus they do not introduce any qualitative changes into the situation.
+
+The next drastic step toward liberation from men consists of the construction of machines capable of learning and consequently capable of thinking by themselves. Machines of this type first store the information; then every time this information is used, the result of the performed action is not fed back as additional information to be stored, but is led to combine with the previously stored information so as to emerge with a new method of approach to the problem. This type of operation can be called thinking in terms of concepts, as opposed to thinking in terms of images. Consequently, the machines can make progress. Since the “emotional factor” is practically absent in machines, the learning process is infinitely faster than in men and it can continue over an indefinite period of time.
+
+3. DIFFERENT TYPES OF HIGH-SPEED COMPUTING MACHINES.
+
+All the computing machines can be divided roughly into two categories: “memory machines” and “thinking machines.”
+
+Memory machines are used mainly for computation in physics, economics, medical research, etc. As far as medical research is concerned, its domain of application is essentially confined to the study of communication within the human body. The most interesting applications, to name only a few, are the studies on fixed ideas, on purpose tremor, etc. On the basis of the study of intra-communication, injured perception organs can be replaced by other perceptions, through the re-channelling of information. Thus, the blind and deaf can “see” and “hear” through the rechanneling of touch perception. The same principle applies to the functioning of limbs whose central nerves are injured.
+
+Among the “thinking” machines the two following examples constitute the most outstanding achievements:
+
+1. Chess playing machines.
+
+A year or so ago, the chess players were informed that a new member of their family had come into existence—a chess playing machine. The machine was built by General Electric and was conceived by Mr. Shannon, one of the authorities on the problems of communication. The machine played quite well, but could be beaten by a really good player. It was said
+
+[Original page 6]
+
+that “it played quite adequately but lacked elegance.” The reason for this lack of elegance is that the machine operates exclusively on the principle of memory. To build in all the possible combinations would be much too expensive, so they were restricted to the most probable combinations. This machine will continually make the same mistakes if a new possibility is not built in, and under these conditions will never possess the flexibility of the human mind.
+
+This situation was recently challenged by English engineers. They succeeded in constructing a machine built on a thinking process. Under these conditions the machine learns how to play. If it plays often, and especially against different and very good players, it is exposed to different styles and difficulties. As a result it come out with superior methods, acquires a style of its own, classifies its opponents according to their pecularities of conducting a game, and in brief, becomes more flexible, and more capable than a man. In this case a machine which has played more will be stronger than a machine which has played less, or in other words, the more mature machines will always win.
+
+It is interesting to ask why people spend time and money on the construction of chess-playing machines. Aside from sheer human pride, the answer is—for the solution of problems posed by military strategy. Thus chess, originated as a strategy exercise, fell into disuse as such for centuries, was revived for its original purpose, but this time played by electronic brains.
+
+2. Elsie and Elmer.
+
+Some time early last year, two young Englishmen constructed two little electronic turtles. Elsie and Elmer were their names. These little toys revealed themselves as an unusual guide for the study of human behavior.
+
+These mechanical toys had two perception organs: they responded to touch and to light. Their “life” was dependent on light. An electric battery was built in, and this battery could be charged only by light through the intermediary of a photo-electric cell. The battery supplied the energy which was built up by light and spent in mechanical or electronic activities. These toys were therefore a mechanism analogous to a living organism with reduced perception activity.
+
+The most striking analogy to living organisms resides in the fact that when these toys are left to themselves in an environment including light and objects, it is impossible to predict their specific behavior, although their general line of conduct can be determined. This means that if the two toys are placed in a spot symmetrical with respect to the position of the light and to the position of the different objects within a given area, they both will move immediately toward the light but their paths will not be identical. The first difference influences their future behavior, because one will meet more obstacles than the other, will get fatigued more rapidly, and will reach the light (food) in a different condition of strength. Consequently, the fight for survival in front of the light will be won by the strongest one.
+
+The possibilities of choice on the part of the turtles is limited by their two sensory perceptions, and consequently their behavior is relatively simple. But with the addition of each new capacity of perception, the possibility of choice increases exponentially and the specific behavior becomes more and more complex, although the general line of drive
+
+[Original page 7]
+
+remains the same—the drive for food or source of strength.
+
+A memory mechanism, and also sensitivity to sound, were built into these toys. Their behavior became extremely complex. It was found that they can learn different tricks, and one could develop conditioned reflexes in them much in the same way as Pavlov developed them in dogs. The thought mechanism, when built in, marked an increasing complexity of behavior and according to the latest reports it led to the development of what we call “ethical principles” among groups of these mechanisms. It has to be emphasized that the behavior and the thinking processes of these toys are completely rational, which allows them to solve social problems in an entirely rational way, i. e. ethically.
+
+It is true that these machines are capable of having nervous breakdowns, much in the same way as humans are. These nervous breakdowns are, however, caused by an overload: i. e., when the communication lines have to carry more information than they are capable of, or when inter-connections of the system are accidentally injured.
+
+The study of the behavior of these machines adds much to the understanding of the behavior of men and society, and from this point of view is of extreme value, for many maladies due to the misbehavior of nerves can thus be analysed and understood and subsequently cured.
+
+There is, however, a quite frightening aspect to these thinking machines. The basic quality of these machines is their rationality; consequently, the most efficient use for them would be where the emotional element makes people react irrationally. One of the most vulnerable areas in this respect is in the domain of human relationships on a small and on a large scale. On a large scale this means in international relations. Thus machines could be put to work to solve all the national and international difficulties.
+
+A state machine is not impossible to imagine. Under these conditions we would have a “machine à gouverner” which would tell us what to do. Since under the present system of communication the most economical way to govern would be to have one state instead of an accumulation of many small ones, we may face the possibility of having an earth state machine governing all the peoples of the earth. The question remains, under what regime will the machine govern? It is rather probable that the machine would chose to govern in the most efficient way, i. e., in a totalitarian way. Under these most efficient conditions, a man would have to play the same role as an ant plays in an ant society; i. e., his mental power would not be called upon.
+
+The “machine à gouverner” belongs at present to the realm of speculation, but the “machine à penser” is, for good or for evil, already among us. The presence of the thinking machine is in process of revolutionizing the conditions of our life, and therefore we must take cognizance of this powerful new colleague of ours and modify the routes of our lives.
+
+Conclusion
+
+The introduction of the high-speed computing machine into human society will of necessity modify our lives and will affect all the phases of the society, and in particular, education. It appears that all “white collar” labor can easily be performed by computing machines. The chemist, the engineer, the physicist, and the mathematician, of average intelligence and training, can be replaced in a much cheaper and more effective manner by the computing machine. The fate of the economist, historian,
+
+[Original page 8]
+
+or social scientist is no better: he will be reduced to punching cards which go into the machines.
+
+It becomes evident that there is no place for the mediocre. The machine needs service on two extreme ends, to code and to decode the messages; on either of these ends intellectual power is not required. The place of man in the exercise of all his intellectual creative capacities belongs to those who conceive the message. The conception requires an infinitely greater amount of knowledge, skill, understanding, and above all training, than ever before.
+
+The university slowly regains its original place as an institution of universal knowledge. Although it is impossible to possess universal knowledge at the present time, it is already necessary now to be acquainted with many fields aside from one’s own, to be capable of working intelligently.
+
+Thus the introduction of the electronic brain leads us to paraphrase the guiding words of the bible, we must now read not “by the sweat of thy brow” but “by the metabolism of thy brain shalt thou live.”
