@@ -14,10 +14,10 @@
     {{ end }}
     {{ if not $.Section }}
       {{ $sections := .Site.Params.rss.sections | default (slice "blog") }}
-      {{ .Store.Set "rssPages" (first 50 (where $.Site.RegularPages "Type" "in" $sections )) }}
+      {{ .Store.Set "rssPages" (first 50 (where $.Site.RegularPages "Section" "in" $sections )) }}
     {{ else }}
       {{ if $.Parent.IsHome }}
-        {{ .Store.Set "rssPages" (first 50 (where $.Site.RegularPages "Type" $.Section )) }}
+        {{ .Store.Set "rssPages" (first 50 (where $.Site.RegularPages "Section" $.Section )) }}
       {{ else }}
         {{ .Store.Set "rssPages" (first 50 $.Pages) }}
       {{ end }}
